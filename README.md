@@ -2,6 +2,8 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+This is the second project in the Udacity Machine Learning Engineer Course. 
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
@@ -10,6 +12,8 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+- seaborn 
+-IPython.display
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
